@@ -1,3 +1,3 @@
-System.Console.WriteLine("Entr your name ");
-string name = System.ReadLine();
-System.WriteLine($"Enter the name Your {name}");
+System.Console.WriteLine("Entr your Roll Number ");
+string RollNumber = System.ReadLine();
+System.WriteLine($"Enter the Roll Number Your is  {RollNumber}");
